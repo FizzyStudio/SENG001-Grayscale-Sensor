@@ -1,0 +1,26 @@
+Added Component: Designator=*(sh-2.0)
+Added Component: Designator=C1(0402)
+Added Component: Designator=D1(LED)
+Added Component: Designator=D2(Q)
+Added Component: Designator=R1(0402)
+Added Component: Designator=R2(0402)
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=VCC Pin=*-2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=Net*_3 Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=Net*_3 Pin=R1-1
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=NetD1_1 Pin=R2-1
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Member To Class: ClassName=Sheet1 Member=Component * sh-2.0
+Added Member To Class: ClassName=Sheet1 Member=Component C1 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component D1 LED1
+Added Member To Class: ClassName=Sheet1 Member=Component D2 Photo Sen
+Added Member To Class: ClassName=Sheet1 Member=Component R1 Res3
+Added Member To Class: ClassName=Sheet1 Member=Component R2 Res3

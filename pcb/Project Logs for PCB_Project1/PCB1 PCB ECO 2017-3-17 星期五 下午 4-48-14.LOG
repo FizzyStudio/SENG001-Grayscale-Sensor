@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=*-1
+Removed Pin From Net: NetName=VCC Pin=*-2
+Removed Member From Class: ClassName=Sheet1 Member=*
+Added Component: Designator=J(sh-2.0)
+Added Pin To Net: NetName=GND Pin=J-1
+Added Pin To Net: NetName=VCC Pin=J-2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=J-3
+Added Pin To Net: NetName=NetD2_1 Pin=R1-1
+Added Net: Name=NetD2_1
+Added Member To Class: ClassName=Sheet1 Member=Component J sh-2.0
+Added Room: Name=Sheet1
